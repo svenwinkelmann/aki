@@ -1,0 +1,199 @@
+{
+  "daily_sleep": [
+    {
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 83,
+        "latency": 51,
+        "rem_sleep": 58,
+        "restfulness": 80,
+        "timing": 98,
+        "total_sleep": 75
+      },
+      "day": "2025-01-03",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 74,
+        "latency": 12,
+        "rem_sleep": 51,
+        "restfulness": 69,
+        "timing": 84,
+        "total_sleep": 65
+      },
+      "day": "2025-01-04",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 74,
+        "latency": 37,
+        "rem_sleep": 50,
+        "restfulness": 53,
+        "timing": 78,
+        "total_sleep": 60
+      },
+      "day": "2025-01-05",
+      "score": 59
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 83,
+        "latency": 89,
+        "rem_sleep": 56,
+        "restfulness": 66,
+        "timing": 53,
+        "total_sleep": 74
+      },
+      "day": "2025-01-06",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 40,
+        "efficiency": 55,
+        "latency": 18,
+        "rem_sleep": 37,
+        "restfulness": 23,
+        "timing": 90,
+        "total_sleep": 51
+      },
+      "day": "2025-01-07",
+      "score": 45
+    },
+    {
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 72,
+        "latency": 24,
+        "rem_sleep": 63,
+        "restfulness": 67,
+        "timing": 82,
+        "total_sleep": 63
+      },
+      "day": "2025-01-08",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 90,
+        "latency": 62,
+        "rem_sleep": 73,
+        "restfulness": 92,
+        "timing": 98,
+        "total_sleep": 68
+      },
+      "day": "2025-01-09",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 26,
+        "efficiency": 88,
+        "latency": 64,
+        "rem_sleep": 33,
+        "restfulness": 71,
+        "timing": 74,
+        "total_sleep": 47
+      },
+      "day": "2025-01-13",
+      "score": 56
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 76,
+        "latency": 40,
+        "rem_sleep": 63,
+        "restfulness": 77,
+        "timing": 92,
+        "total_sleep": 63
+      },
+      "day": "2025-01-14",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 79,
+        "latency": 64,
+        "rem_sleep": 53,
+        "restfulness": 71,
+        "timing": 92,
+        "total_sleep": 63
+      },
+      "day": "2025-01-15",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 93,
+        "latency": 99,
+        "rem_sleep": 36,
+        "restfulness": 49,
+        "timing": 73,
+        "total_sleep": 56
+      },
+      "day": "2025-01-16",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 79,
+        "latency": 67,
+        "rem_sleep": 65,
+        "restfulness": 66,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2025-01-17",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 95,
+        "latency": 64,
+        "rem_sleep": 86,
+        "restfulness": 71,
+        "timing": 78,
+        "total_sleep": 78
+      },
+      "day": "2025-01-18",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 58,
+        "latency": 94,
+        "rem_sleep": 71,
+        "restfulness": 36,
+        "timing": 72,
+        "total_sleep": 63
+      },
+      "day": "2025-01-19",
+      "score": 62
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 86,
+        "restfulness": 71,
+        "timing": 95,
+        "total_sleep": 79
+      },
+      "day": "2025-01-20",
+      "score": 81
+    }
+  ]
+}
