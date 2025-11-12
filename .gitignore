@@ -1,6 +1,8 @@
 # Project specific gitignore
 data/datasets/*
 data/models/*
+mlflow.db
+ml*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
