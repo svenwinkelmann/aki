@@ -3,6 +3,7 @@ data/datasets/*
 data/models/*
 mlflow.db
 ml*
+Klausur*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
